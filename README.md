@@ -2,12 +2,17 @@
 Clone el repositorio 
 
 ```bash
-git clone https://github.com/PFIS-ECI/Monoid.git
+$ git clone https://github.com/PFIS-ECI/Monoid.git
 ```
 
 Cambie el directorio actual al directorio del repositorio
 ```bash
-cd Monoid
+$ cd Monoid
+```
+
+Para utilizar `ghci` utilice el comando
+```bash
+$ stack ghci
 ```
 
 # Monoid
