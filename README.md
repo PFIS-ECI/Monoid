@@ -46,7 +46,7 @@ crea la instancia revisar que se cumplen las propiedades.
 ## Monoide String
 
 Las cadenas de caracteres, con la concatenación y la cadena vacía
-es un ejemplo de un monoide. 
+son un ejemplo de un monoide. 
 
 ```haskell
 > mempty :: String
